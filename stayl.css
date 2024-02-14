@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/00103100-5b45-4d4f-af32-342649f1bda5/050f9420-40a4-4dd9-88a8-fec1c9a5fe94/KG-ru-20230821-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    background-size: cover;
+  }
+  
+  .frend {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px 40px;
+    height: 100vh;
+  }
+  
+  .cover {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px 40px;
+    height: 100vh;
+  }
+  
+  .container {
+    margin: 0 auto;
+    width: 500px;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 10px;
+    padding: 50px 60px;
+    color: white;
+  }
+  
+  .container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .inputs {
+    width: 370px;
+    padding: 10px 20px;
+    margin: 7px 0;
+    outline: none;
+    background-color: #383636;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    height: 60px;
+  }
+  
+  .button {
+    width: 370px;
+    padding: 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #e50914;
+    border: none;
+    border-radius: 7px;
+    margin-top: 30px;
+  }
+  
+  .help-container {
+    margin-top: 15px;
+    color: #b3b3b3;
+  }
+  
+  .help-container a {
+    margin-left: 110px;
+    color: #b3b3b3;
+    text-decoration: none;
+  }
+  
+  .register-link {
+    margin-top: 15px;
+    color: #737373;
+    font-size: 20px;
+  }
+  
+  .register-link a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+  
+  .more-show {
+    margin-top: 15px;
+    color: #b3b3b3;
+  }
+  
+  .more-show span {
+    color: blue;
+  }
+  .baatyr {
+    margin-top: 25px;
+    align-content: center;
+  }
+  
+  .footer-container {
+    display: flex;
+    margin: 50px 0;
+    gap: 110px;
+  }
+  
+  .footer-container div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .footer-container div a {
+    text-decoration: none;
+    color: #b3b3b3;
+  }
+  
+  .footer-container a {
+    text-decoration: none;
+    color: #b3b3b3;
+  }
+  
+  .footer {
+    background-color: rgba(12, 10, 10, 0.735);
+    padding: 20px 350px;
+    height: 30vh;
+    font-size: 14px;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: #b3b3b3;
+  }
+  
+  .select option {
+  }
+  
+  .select {
+    outline: none;
+    padding: 10px;
+    background-color: #383636;
+    color: white;
+  }
